@@ -1,0 +1,18 @@
+body { 
+  width: 80%; margin-left: 10%;
+  font-family: 微軟正黑體,Heiti TC, Hei;
+  vertical-align: middle;
+  }
+hl { 
+  padding: 4pt 16pt;
+  border: 1pt solid darkgray;
+  background-color: lightgray;
+  }
+h2 { display: inline-block; }
+h3 { text-decoration: underline; color: blue; }
+menu { margin-left: 240px; }
+img {
+  float: left; margin-left: 16pt;
+  margin-right: 24pt; margin-bottom: 200pt;
+  box-shadow: 5px 5px 5px magenta:border-radius: 25px;
+}
