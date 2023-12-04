@@ -13,6 +13,7 @@ h3 { text-decoration: underline; color: blue; }
 menu { margin-left: 240px; }
 img {
   float: left; margin-left: 16pt;
-  margin-right: 24pt; margin-bottom: 200pt;
+  margin-right: 24pt;
+  margin-bottom: 200pt;
   box-shadow: 5px 5px 5px magenta:border-radius: 25px;
 }
