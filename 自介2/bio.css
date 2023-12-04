@@ -1,17 +1,17 @@
-body { 
+BODY { 
   width: 80%; margin-left: 10%;
   font-family: 微軟正黑體,Heiti TC, Hei;
   vertical-align: middle;
   }
-hl { 
+Hl { 
   padding: 4pt 16pt;
   border: 1pt solid darkgray;
   background-color: lightgray;
   }
-h2 { display: inline-block; }
-h3 { text-decoration: underline; color: blue; }
-menu { margin-left: 240px; }
-img {
+H2 { display: inline-block; }
+H3 { text-decoration: underline; color: blue; }
+MENU { margin-left: 240px; }
+IMG {
   float: left; margin-left: 16pt;
   margin-right: 24pt;
   margin-bottom: 200pt;
